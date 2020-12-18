@@ -1,14 +1,14 @@
 {
-    'name': 'Res API Jsonrpc',
+    'name': 'Odoo Notification Sample',
     'category': 'Extra',
-    "author": "Portcities",
-    'website': 'https://www.portcities.net',
+    "author": "Alvin Adji",
+    'website': 'https://www.linkedin.com/in/alvinadjie/',
     'version': '13.0.1.0.0',
     'description': '''
-Custom Module for JSON-RPC API
+Odoo Notification Sample
 
 ''',
-    'depends': ['base'],
+    'depends': ['stock'],
     'data': [],
     'installable': True,
     'auto_install': False,
